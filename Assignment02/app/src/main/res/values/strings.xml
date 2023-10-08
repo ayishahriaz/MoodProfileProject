@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment02</string>
+    <string name="welcome">Welcome!</string>
+    <string name="name_label">"Name: "</string>
+    <string name="age_label">"Age: "</string>
+    <string name="editTextName">Enter Name</string>
+    <string name="editTextAge">Enter Age</string>
+    <string name="feeling_label">"How are you feeling? "</string>
+    <string name="buttonTellUs">TELL US</string>
+    <string name="buttonSubmit">SUBMIT</string>
+    <string name="feeling_label2">How are you feeling???</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="buttonBack">BACK</string>
+    <string name="profile_feeling_label">"How you're feeling: "</string>
+    <string name="outOf4">out of 4</string>
+</resources>
